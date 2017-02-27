@@ -22,13 +22,14 @@ let UserSchema = mongoose.Schema({
   }
 });
 
+//check password
 UserSchema.methods.checkPassword = function(password,done){
   bcrypt.compare(password,this.password,function(err,isMatch){
     done(err,isMatch);
   });
 };
 
-// ************ Encrypt the password pre save *********************
+// ************ Encrypt the password if it's Modified *********************
 UserSchema.pre("save",function(done){
   let user = this;
   if(!user.isModified("password")){
@@ -47,8 +48,3 @@ UserSchema.pre("save",function(done){
 const User = mongoose.model('User', UserSchema);
 
 module.exports = User;
-/*
-module.exports.getUserById = function(id, callback){
-  User.findById(id, callback);
-}
-*/

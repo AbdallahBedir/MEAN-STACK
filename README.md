@@ -23,5 +23,9 @@ npm start
 #Go to 
 `http://localhost:3000`
 ```
-
 That's it.
+
+
+## Contributing
+
+Contributions, questions and comments are all welcomed and encouraged. 

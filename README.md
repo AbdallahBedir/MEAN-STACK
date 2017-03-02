@@ -13,7 +13,7 @@ To get up and running run:
 # install dependencies
 npm install
 
-#Start MongoDB
+#start MongoDB
 sudo service mongod start
 mongo
 

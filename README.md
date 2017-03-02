@@ -1,5 +1,5 @@
-# VueDo - Simple trello clone [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Eslam-nasser-wd/node-trello-clone-api)
-> Basic trello clone made with Vue,node,express and mongo
+# MEAN AUTHENTICATION APP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Eslam-nasser-wd/node-trello-clone-api)
+> Basic MEAN Authentication App with Angular2,node,express and mongo
 
 
 [<img width="60" align="middle" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/07/1436439824nodejs-logo.png">](https://nodejs.org)
@@ -20,4 +20,4 @@ npm start
 #Go to 
 `http://localhost:3000`
 ```
-that's it.
+That's it.

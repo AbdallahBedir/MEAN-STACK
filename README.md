@@ -6,6 +6,8 @@
 [<img width="60" align="middle" src="https://www.ag-grid.com/images/angular2.png">](https://angular.io/)
 [<img width="150" align="middle" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg">](https://www.mongodb.com/)
 [<img width="150" align="middle" src="https://camo.githubusercontent.com/b0c9dc0e2f5bcd190403159a24d4a541e496e30a/68747470733a2f2f636f6c69676f2e696f2f696d616765732f657870726573732e737667">](https://expressjs.com/)
+[<img width="150" align="middle" src="https://jwt.io/assets/logo.svg">](https://jwt.io/)
+
 
 ## Usage
 To get up and running run:

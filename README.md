@@ -1,5 +1,5 @@
 # MEAN AUTHENTICATION APP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/AbdallahBedir/MEAN-STACK)
-> Basic MEAN Authentication App with Angular2,node,express and mongo
+> Basic MEAN Authentication App with Angular2,node,express and mongo and authentication using jwt
 
 
 [<img width="60" align="middle" src="https://cdn.rawgit.com/gilbarbara/logos/e7b1dc2666c3dabe6c1276abd0a767b6ebd6af43/logos/nodejs-icon.svg">](https://nodejs.org)

@@ -2,7 +2,7 @@
 > Properties App uses firebase as a backend
 
 [<img width="60" align="middle" src="https://www.ag-grid.com/images/angular2.png">](https://angular.io/)
-[<img width="150" align="middle" src="https://firebase.google.com/_static/images/firebase/touchicon-180.png">](https://firebase.google.com/)
+[<img width="60" align="middle" src="https://firebase.google.com/_static/images/firebase/touchicon-180.png">](https://firebase.google.com/)
 
 ``` bash
 # Features used 

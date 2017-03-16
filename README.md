@@ -1,27 +1,13 @@
-# MEAN AUTHENTICATION APP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://abdallahbedir.github.io/propreties-app/)
-> Properties App uses firebase as a backend
+# MEAN AUTHENTICATION APP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/AbdallahBedir/MEAN-STACK)
+> Basic MEAN Authentication App with Angular2,node,express and mongo and authentication using jwt
 
+
+[<img width="60" align="middle" src="https://cdn.rawgit.com/gilbarbara/logos/e7b1dc2666c3dabe6c1276abd0a767b6ebd6af43/logos/nodejs-icon.svg">](https://nodejs.org)
 [<img width="60" align="middle" src="https://www.ag-grid.com/images/angular2.png">](https://angular.io/)
-[<img width="60" align="middle" src="https://firebase.google.com/_static/images/firebase/touchicon-180.png">](https://firebase.google.com/)
+[<img width="150" align="middle" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg">](https://www.mongodb.com/)
+[<img width="150" align="middle" src="https://camo.githubusercontent.com/b0c9dc0e2f5bcd190403159a24d4a541e496e30a/68747470733a2f2f636f6c69676f2e696f2f696d616765732f657870726573732e737667">](https://expressjs.com/)
+[<img width="150" align="middle" src="https://jwt.io/assets/logo.svg">](https://jwt.io/)
 
-``` bash
-# Features used 
-
-angularRouting
-
-CanActivate,CanDeactivate
-
-angularmaterial
-
-angularfire2
-
-firebase
-
-resolver
-
-angular2 animation
-
-```
 
 ## Usage
 To get up and running run:
